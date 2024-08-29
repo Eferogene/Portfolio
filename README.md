@@ -1,2 +1,2 @@
 # Portfolio
-List of my projects to showcase my skills
+List of projects to showcase my skills
